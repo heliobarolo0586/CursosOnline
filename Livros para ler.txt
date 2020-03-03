@@ -1,0 +1,5 @@
+Código limpo
+Domain Driven Design: Atacando as complexidades no coração do software
+Algoritmos: Teoria e Prática
+Use a Cabeça! Padrões de Projetos
+ O programador pragmático: de aprendiz a mestre
